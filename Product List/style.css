@@ -1,0 +1,143 @@
+@font-face {
+    font-family: "custom";
+    src: url(./asset/Poppins/Poppins-Medium.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 170vh;
+    /* background-color: crimson; */
+    background: linear-gradient(45deg, #7F00FF, #E100FF, #00C9FF);
+}
+
+
+.align{
+    margin-left: 3em;
+    margin-top: 2em;
+    margin-right: 15em;
+    line-height: 1.5em;
+    
+}
+
+.Laptop{
+    width: 17em;
+    height: 16em;
+}
+
+.child-align{
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    margin-top: 1.3em;
+    margin-left: 1.8em;
+}
+
+.font{
+    font-size: 1.2em;
+}
+
+.rating{
+
+    color: rgb(252, 116, 5);
+    
+    
+}
+
+.eighteen{
+    color: blue;
+    font-size: 0.9em;
+}
+
+
+.poppin{
+    font-family: "custom";
+    font-size: 0.9em;
+}
+
+.top{
+    margin-top: 0.6em;
+    display: flex;
+}
+
+.main-span{
+    position: relative;
+    font-size: 2em;     
+    font-weight: 500;
+}
+
+.dollar{
+    font-size: 0.5em;
+    bottom:0.5em;
+    position: absolute;
+    right: 4.3em;
+}
+
+.ninety{
+    position: absolute;
+    bottom: 0.5em;
+    font-size: 0.5em;
+}
+
+.margin{
+    margin-left: 1.8em;
+    font-size: 1.2em;
+}
+
+.margin-top{
+   margin-top:0.5em;
+}
+
+
+.amazon{
+    margin-top: 0.5em;
+}
+
+.mini-pc{
+    width: 16em;
+    height: 14em;
+}
+
+.dollar-3{
+    font-size: 0.5em;
+    bottom:0.5em;
+    position: absolute;
+    right: 3em;
+}
+
+.parent{
+    margin-top: 1.5em;
+}
+
+
+.sizes{
+    color: darkblue;
+}
+
+.order{
+    margin-top: 0.1em;
+}
+
+.color{
+    color: rgba(255, 0, 0,1);
+}
+
+
+.industrial{
+    width: 16em;
+    height: 12em;
+}
+
+.parent-1{
+    margin-top: 1.7em;
+}
+
+.margin-top{
+    margin-top: 2em;
+}
